@@ -1,0 +1,12 @@
+note over browser:
+On form submit browser runs code in spa.js
+-creates new note 
+-adds note to lis of notes
+-sends POST with new note to server
+end note
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note over server:
+Server saves note to data.json
+end note
+
+
