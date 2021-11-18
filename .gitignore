@@ -1,0 +1,13 @@
+training/part1/.gitignore
+training/part1/package-lock.json
+training/part1/package.json
+training/part1/README.md
+training/part1/public/favicon.ico
+training/part1/public/index.html
+training/part1/public/logo192.png
+training/part1/public/logo512.png
+training/part1/public/manifest.json
+training/part1/public/robots.txt
+training/part1/src/App.js
+training/part1/src/index.js
+./*/*/node_modules
